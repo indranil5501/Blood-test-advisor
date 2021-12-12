@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class termsNconditions extends AppCompatActivity {
+public class Basicinfo extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_terms_nconditions);
+        setContentView(R.layout.activity_basicinfo);
     }
 }
