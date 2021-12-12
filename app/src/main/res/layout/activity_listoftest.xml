@@ -26,31 +26,34 @@
         android:id="@+id/sub1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:text="RED BLOOD CELLS"
         tools:ignore="InvalidId" />
 
     <Button
+        android:layout_marginTop="10dp"
         android:id="@+id/sub2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:text="WHITE BLOOD CELLS"
         tools:ignore="InvalidId" />
 
     <Button
+        android:layout_marginTop="10dp"
         android:id="@+id/sub3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:text="PLATELETS"
         tools:ignore="InvalidId" />
 
     <Button
+        android:layout_marginTop="10dp"
         android:id="@+id/sub4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
+        android:textSize="25sp"
         android:text="HEMOGLOBIN"
         tools:ignore="InvalidId" />
     </LinearLayout>
