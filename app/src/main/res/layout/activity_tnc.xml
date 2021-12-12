@@ -18,6 +18,12 @@
         android:text="This app is only for referance. It is sincerely adviced to check your reports to Doctors."
         android:textSize="40dp"
         android:paddingBottom="50sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="*ONLY FOR ADULTS."
+            android:textSize="20dp"
+            android:textColor="#E40808"/>
 
     <CheckBox
         android:id="@+id/cbox"

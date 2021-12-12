@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Rbccinfo"
+    android:paddingHorizontal="25dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HEMOGLOBIN CHECK"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_marginTop="30sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="AGE"
+            android:textSize="30sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:background="@drawable/bgbox">
+            <EditText
+                android:id="@+id/age"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@null"
+                android:imeOptions="actionDone"
+                android:importantForAutofill="no"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                tools:ignore="TouchTargetSizeCheck,TextContrastCheck"
+                android:inputType="number" />
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(Valid age is between 18y - 60y)"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="GENDER"
+            android:textSize="30sp"/>
+
+
+        <RadioGroup
+            android:id="@+id/rg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RadioButton
+                android:id="@+id/m"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:ignore="InvalidId"
+                android:text="Male"
+                android:textSize="20sp"
+                android:textStyle="bold">
+            </RadioButton>
+            <RadioButton
+                android:id="@+id/f"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:ignore="InvalidId"
+                android:text="Female"
+                android:textSize="20sp"
+                android:textStyle="bold">
+            </RadioButton>
+
+        </RadioGroup>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="g/dL"
+            android:textSize="30sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_margin="5dp"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:background="@drawable/bgbox">
+            <EditText
+                android:id="@+id/check"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@null"
+                android:imeOptions="actionDone"
+                android:importantForAutofill="no"
+                android:textColor="@color/black"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                tools:ignore="InvalidId,TextContrastCheck,TouchTargetSizeCheck"
+                android:inputType="number" />
+        </LinearLayout>
+
+
+
+        <Button android:layout_marginTop="100dp"
+            android:id="@+id/subtnc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="CHECK"
+            tools:ignore="InvalidId" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
