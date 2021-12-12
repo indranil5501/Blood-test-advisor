@@ -10,6 +10,39 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BloodTestAdvisor">
         <activity
+            android:name=".Lrbc"
+            android:exported="false" />
+        <activity
+            android:name=".Nrbc"
+            android:exported="false" />
+        <activity
+            android:name=".Hrbc"
+            android:exported="false" />
+        <activity
+            android:name=".Lwbc"
+            android:exported="false" />
+        <activity
+            android:name=".Nwbc"
+            android:exported="false" />
+        <activity
+            android:name=".Hwbc"
+            android:exported="false" />
+        <activity
+            android:name=".Lplts"
+            android:exported="false" />
+        <activity
+            android:name=".Nplts"
+            android:exported="false" />
+        <activity
+            android:name=".Hplts"
+            android:exported="false" />
+        <activity
+            android:name=".Lhemo"
+            android:exported="false" />
+        <activity
+            android:name=".Nhemo"
+            android:exported="false" />
+        <activity
             android:name=".Hhemo"
             android:exported="false" />
         <activity

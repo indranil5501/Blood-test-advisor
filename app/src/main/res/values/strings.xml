@@ -3,17 +3,193 @@
     <string name="blood_test_adviser">Blood Test adviser</string>
 
 
-    <string name="hhemo"><b>Male: 41%-53% \n</b>
-          <br><b>Female: 36%-46% \n</b></br>
+    <string name="hhemo">
+        <b>Male: 41%-53% \n</b>
+        <br><b>Female: 36%-46% \n</b></br>
         <br> \n </br>
         <br><b>Common Symptoms - \n</b></br>
-<br>1.shortness of breath \n</br>
-<br>2.joint pain \n</br>
-<br>3.sleep disturbance \n</br>
-<br>4.itching skin, particularly after a shower or bath \n</br>
+        <br>1.Shortness of breath \n</br>
+        <br>2.Joint pain \n</br>
+        <br>3.Sleep disturbance \n</br>
+        <br>4.Itching skin, particularly after a shower or bath \n</br>
         <br> \n</br>
-<br><b>Treatment- \n</b></br>
-<br><h1>doctor  \n</h1></br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+    </string>
 
-</string>
+    <string name="nhemo">
+        <b>Male: 41%-53% \n</b>
+        <br><b>Female: 36%-46% \n</b></br>
+        <br> \n </br>
+        <br><h1>**********Congo********** \n</h1></br>
+        <br><b>Tips - \n</b></br>
+        <br>1.Exercise Regularly \n</br>
+        <br>2.Drink Water and Stay Hydrated \n</br>
+        <br>3.Limit Unhealthy Foods and Eat Healthy Meals \n</br>
+        <br>4.Reduce Sitting and Screen Time \n</br>
+    </string>
+
+    <string name="lhemo">
+        <b>Male: 41%-53% \n</b>
+        <br><b>Female: 36%-46% \n</b></br>
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+        <br>1.Feeling tired \n</br>
+        <br>2.Weakness \n</br>
+        <br>3.Feeling cold \n</br>
+        <br>4.Pale skin \n</br>
+        <br>5.Headache \n</br>
+        <br> \n</br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+        <br>1.Increasing iron intake \n</br>
+        <br>2.Increasing folate intake \n</br>
+        <br>3.Maximizing iron absorption \n</br>
+        <br>4.Taking iron supplements \n</br>
+    </string>
+
+    //////////////////////////////////////////////////////////////////////////////////////////////
+
+
+    <string name="hplts">
+        <b>Reference range: 150,000-400,000/mm3 \n</b>
+
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+        <br>1.Chest pain \n</br>
+        <br>2.Tingling in the hands and feet. \n</br>
+        <br>3.Bleeding \n</br>
+        <br>4.Headache \n</br>
+        <br> \n</br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+    </string>
+
+    <string name="nplts">
+        <b>Reference range: 150,000-400,000/mm3 \n</b>
+        <br> \n </br>
+        <br><h1>**********Congo********** \n</h1></br>
+        <br><b>Tips - \n</b></br>
+        <br>1.Exercise Regularly \n</br>
+        <br>2.Drink Water and Stay Hydrated \n</br>
+        <br>3.Limit Unhealthy Foods and Eat Healthy Meals \n</br>
+        <br>4.Reduce Sitting and Screen Time \n</br>
+    </string>
+
+
+    <string name="lplts">
+        <b>Reference range: 150,000-400,000/mm3 \n</b>
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+        <br>1.Easy or excessive bruising \n</br>
+        <br>2.Bleeding from your gums or nose \n</br>
+        <br>3.Blood in urine or stools \n</br>
+        <br>4.Unusually heavy menstrual flows \n</br>
+        <br>5.Fatigue \n</br>
+        <br> \n</br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+        <br>1.Vitamin B-12: clams,eggs \n</br>
+        <br>2.Folate: peanuts,black-eyed peas,kidney beans,orange juice \n</br>
+        <br>3.Iron: pumpkin seeds,lentils \n</br>
+        <br>4.Vitamin C: pineapple, tomatoes, cauliflower \n</br>
+    </string>
+
+    ///////////////////////////////////////////////////////////////////////////////////
+
+    <string name="hrbc">
+        <b>Male: 4.3-5.9 million/mm3 \n</b>
+        <br><b>Female: 3.5-5.5 million/mm3 \n</b></br>
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+        <br>1.Shortness of breath \n</br>
+        <br>2.Joint pain \n</br>
+        <br>3.Sleep disturbance \n</br>
+        <br>4.Itching skin, particularly after a shower or bath \n</br>
+        <br> \n</br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+    </string>
+
+    <string name="nrbc">
+        <b>Male: 4.3-5.9 million/mm3 \n</b>
+        <br><b>Female: 3.5-5.5 million/mm3 \n</b></br>
+        <br> \n </br>
+        <br><h1>**********Congo********** \n</h1></br>
+        <br><b>Tips - \n</b></br>
+        <br>1.Exercise Regularly \n</br>
+        <br>2.Drink Water and Stay Hydrated \n</br>
+        <br>3.Limit Unhealthy Foods and Eat Healthy Meals \n</br>
+        <br>4.Reduce Sitting and Screen Time \n</br>
+    </string>
+
+
+    <string name="lrbc">
+        <b>Male: 4.3-5.9 million/mm3 \n</b>
+        <br><b>Female: 3.5-5.5 million/mm3 \n</b></br>
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+        <br>1.Increased heart rate \n</br>
+        <br>2.Headaches \n</br>
+        <br>3.Shortness of breath \n</br>
+        <br>4.Pale skin \n</br>
+        <br>5.Fatigue \n</br>
+        <br> \n</br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+        <br>1.Organ meat: such as kidney and liver \n</br>
+        <br>2.Dark, leafy, green vegetables \n</br>
+        <br>3.Dried fruits, such as prunes and raisins \n</br>
+        <br>4.Vitamin C: pineapple, tomatoes, cauliflower \n</br>
+    </string>
+
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    <string name="hwbc">
+        <b>Reference range: 4500-11,000/mm3 \n</b>
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+        <br>1.Weight loss \n</br>
+        <br>2.Fevers \n</br>
+        <br>3.Difficulty breathing \n</br>
+        <br>4.Chest pain \n</br>
+        <br>5.Vomiting and diarrhea \n</br>
+        <br>6.Coughing \n</br>
+        <br> \n</br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+    </string>
+
+    <string name="nwbc">
+        <b>Reference range: 4500-11,000/mm3 \n</b>
+        <br> \n </br>
+        <br><h1>**********Congo********** \n</h1></br>
+        <br><b>Tips - \n</b></br>
+        <br>1.Exercise Regularly \n</br>
+        <br>2.Drink Water and Stay Hydrated \n</br>
+        <br>3.Limit Unhealthy Foods and Eat Healthy Meals \n</br>
+        <br>4.Reduce Sitting and Screen Time \n</br>
+    </string>
+
+    <string name="lwbc">
+        <b>Reference range: 4500-11,000/mm3 \n</b>
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+        <br>1.Get mouth sores \n</br>
+        <br>2.Get skin infections \n</br>
+        <br>3.Have repeated fevers and infections \n</br>
+        <br>4.Get sinus infections and a stuffy nose \n</br>
+        <br> \n</br>
+        <br><b>Treatment- \n</b></br>
+        <br><h1>*Consent to a Doctor  \n</h1></br>
+        <br>1.Vitamins A, C, E, and B9 \n</br>
+        <br>2.Yogurt \n</br>
+        <br>3.Omega-3 Fatty Acids \n</br>
+        <br>4.Zinc contain food \n</br>
+        <br>5.Selenium \n</br>
+        <br>6.Citrus Fruits \n</br>
+
+    </string>
+
+
 </resources>
