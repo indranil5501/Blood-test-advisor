@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BloodTestAdvisor">
         <activity
+            android:name=".Hhemo"
+            android:exported="false" />
+        <activity
             android:name=".Hemoc"
             android:exported="false" />
         <activity

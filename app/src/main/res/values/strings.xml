@@ -1,4 +1,19 @@
 <resources>
     <string name="app_name">Blood test advisor</string>
     <string name="blood_test_adviser">Blood Test adviser</string>
+
+
+    <string name="hhemo"><b>Male: 41%-53% \n</b>
+          <br><b>Female: 36%-46% \n</b></br>
+        <br> \n </br>
+        <br><b>Common Symptoms - \n</b></br>
+<br>1.shortness of breath \n</br>
+<br>2.joint pain \n</br>
+<br>3.sleep disturbance \n</br>
+<br>4.itching skin, particularly after a shower or bath \n</br>
+        <br> \n</br>
+<br><b>Treatment- \n</b></br>
+<br><h1>doctor  \n</h1></br>
+
+</string>
 </resources>
