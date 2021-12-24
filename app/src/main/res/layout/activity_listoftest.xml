@@ -22,6 +22,7 @@
             android:layout_marginTop="30sp"/>
 
     <Button
+        android:background="#16EC5D"
         android:layout_marginTop="20dp"
         android:id="@+id/sub1"
         android:layout_width="match_parent"
@@ -31,6 +32,7 @@
         tools:ignore="InvalidId" />
 
     <Button
+        android:background="#16EC5D"
         android:layout_marginTop="10dp"
         android:id="@+id/sub2"
         android:layout_width="match_parent"
@@ -40,6 +42,7 @@
         tools:ignore="InvalidId" />
 
     <Button
+        android:background="#16EC5D"
         android:layout_marginTop="10dp"
         android:id="@+id/sub3"
         android:layout_width="match_parent"
@@ -49,6 +52,7 @@
         tools:ignore="InvalidId" />
 
     <Button
+        android:background="#16EC5D"
         android:layout_marginTop="10dp"
         android:id="@+id/sub4"
         android:layout_width="match_parent"
