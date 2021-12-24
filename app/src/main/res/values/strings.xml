@@ -190,6 +190,10 @@
         <br>6.Citrus Fruits \n</br>
 
     </string>
+    <string name="white_blood_cells_check">WHITE BLOOD CELLS CHECK</string>
+    <string name="million_mm">million/mm³</string>
+    <string name="hemoglobin_check">HEMOGLOBIN CHECK</string>
+    <string name="g_dl">g/dL</string>
 
 
 </resources>

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Rbccinfo"
+    tools:context=".Wbcc"
     android:paddingHorizontal="25dp">
     <LinearLayout
         android:layout_width="match_parent"
@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="WHITE BLOOD CELLS CHECK"
+            android:text="@string/white_blood_cells_check"
             android:textSize="30sp"
             android:textStyle="bold"
             android:textAlignment="center"
@@ -89,7 +89,7 @@
             android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="million/mm³"
+            android:text="@string/million_mm"
             android:textSize="30sp"/>
 
         <LinearLayout
